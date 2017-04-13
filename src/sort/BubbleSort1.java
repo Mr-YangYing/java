@@ -40,7 +40,6 @@ import java.util.Arrays;
  */
 public class BubbleSort1 {
 	public static void main(String[] args) {
-		// int[] arr = new int[]{8,9,4,5,7,2};
 		int[] arr = { 8, 9, 4, 5, 7, 2 };
 		sort(arr);
 	}
